@@ -14,7 +14,7 @@ function isNo(text: string): boolean {
 }
 
 async function main() {
-  console.log("FAQ Agent CLI ✅ (LLM selector, German FAQ → multilingual answers)");
+  console.log("I am FAQ Agent. I help customers from Hermaid to solve their problems");
   console.log("Type a question. Type 'exit' to quit.\n");
 
   const rl = readline.createInterface({
