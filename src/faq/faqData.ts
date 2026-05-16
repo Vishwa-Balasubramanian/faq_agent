@@ -62,6 +62,4 @@ export const FAQS: FaqItem[] = [
     category: "FEATURES & ROADMAP / NOT YET AVAILABLE",
   },
 
-
- 
 ];
