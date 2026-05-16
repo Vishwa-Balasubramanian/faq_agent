@@ -1,0 +1,11 @@
+{
+  "file": "Recording.m4a",
+  "detected_language": "German",
+  "transcription": "Hallo, guten Morgen. Wie muss ich Expatieren anfragen?",
+  "matched_faq": {
+    "id": "FAQ_006",
+    "question_de": "Wie nehme ich am Call teil?",
+    "answer_de": "10 Minuten bevor dein Termin beginnt, kannst du dich bereits einloggen. **Wichtig ist hier, dass der Termin nicht über die App sondern über den Browser, einer Webapp durchgeführt werden kann.** Die Schaltfläche „Einwahl“ wird dann aktiv. Während des Calls kann die Expertin Notizen machen. Diese Notizen werden nicht mit dir geteilt. Nach dem Gespräch erstellt die Expertin in einem separaten Fenster deinen Treatment Plan. Dieser wird anschließend mit dir geteilt. Du kannst kurz vor dem Termin in den Call springen. **10 Minuten vor Beginn** wird der Button **„Teilnehmen“** aktiv – darüber kannst du dich direkt einwählen. Beim **allerersten Mal** wirst du gefragt, ob du den Zugriff auf **Mikrofon und Kamera** erlauben möchtest. Bitte bestätige **beides** und wähle – wenn möglich – **„immer erlauben“** (bzw. *allow every time*) und **nicht** nur **„nur dieses Mal“** (*only on this visit*). So vermeidest du technische Probleme bei zukünftigen Calls. In der Lobby kannst du sehen wann die Expertin online ist. Aber am besten gehst du direkt in den Call. **Während des Calls** - Du kannst **deinen Bildschirm nicht teilen** – das kann nur die Expertin.  Die Expertin kann sich **Notizen im Call machen** und diese später mit dir teilen.Nach dem Termin **erhältst du eine E-Mail** mit den weiteren Informationen bzw. den geteilten Notizen."
+  },
+  "timestamp": "2026-03-10T08:52:16.217Z"
+}
